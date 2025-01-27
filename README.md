@@ -1,5 +1,5 @@
 **Create service**<br/>
-sc create Service-Name binPath="C:\\path\\to\\exec"<br/>
+(cmd)sc create Service-Name binPath="C:\\path\\to\\exec"<br/>
 **Start service**<br/>
 sc start Service-Name<br/>
 **Stop service**<br/>
